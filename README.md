@@ -1,2 +1,2 @@
 # networking-physical-world
-## Labs and assignments for EC544
+Labs and assignments for EC544
