@@ -1,0 +1,6 @@
+{
+  "name": "my_lambda",
+  "dependencies": {
+    "twitter-api-v2": "^1.11.3"
+  }
+}
